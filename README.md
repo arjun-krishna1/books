@@ -1,11 +1,12 @@
 # books-to-read
 - [ ] how to win friends and influence people, dane carnegie
 - [ ] king james bible (book of job, ruth, ester, eccelisiastes)
+- [ ] les miserables (unabriged)
 
 # REREAD
 - flowers for algeron
 - phantom of the opera
-- les miserables
+- les miserables (abriged)
 - les justes
 - the white tiger
 - alexander the great, robin lane fox
