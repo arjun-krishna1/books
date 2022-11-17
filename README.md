@@ -3,6 +3,7 @@
 - [ ] king james bible (book of job, ruth, ester, eccelisiastes)
 - [ ] les miserables (unabriged)
 - [ ] shadows on the koyukuk
+- [ ] mutiny on the bounty
 
 # REREAD
 - flowers for algeron
