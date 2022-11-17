@@ -2,6 +2,7 @@
 - [ ] how to win friends and influence people, dane carnegie
 - [ ] king james bible (book of job, ruth, ester, eccelisiastes)
 - [ ] les miserables (unabriged)
+- [ ] shadows on the koyukuk
 
 # REREAD
 - flowers for algeron
