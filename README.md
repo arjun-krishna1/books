@@ -4,6 +4,10 @@
 - [ ] les miserables (unabriged)
 - [ ] shadows on the koyukuk
 - [ ] mutiny on the bounty
+- [ ] the man who would be 
+- [ ] the bhagvad gita (unabriged)
+- [ ] the ramayana (unabriged)
+- [ ] krishna katha (unabriged)
 
 # REREAD
 - flowers for algeron
@@ -17,6 +21,6 @@
 - titan, ron chernow
 - the ride of a lifetime, robert iger
 - the courage to be disliked
-- the bhagvad gita
+- the bhagvad gita (abriged)
 - be here now
 - the book thief
