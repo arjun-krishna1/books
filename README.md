@@ -4,7 +4,7 @@
 - [ ] les miserables (unabriged)
 - [ ] shadows on the koyukuk
 - [ ] mutiny on the bounty
-- [ ] the man who would be 
+- [ ] the man who would be king 
 - [ ] the bhagvad gita (unabriged)
 - [ ] the ramayana (unabriged)
 - [ ] krishna katha (unabriged)
